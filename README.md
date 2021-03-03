@@ -1,2 +1,2 @@
 # ansible-role-perfsonar-docker
-Install / uninstall and configure Docker for perfSONAR
+Docker install / uninstall role
